@@ -1,18 +1,18 @@
 ### Xmrig
 
-The repository contains the Linux portable binaries for xmrig.
+The repository contains the Linux portable binaries for xmrig.\
 Tested on Fedora 25/27, Ubuntu 16.04.4 LTS.
 
 ### Typical usage
 
 The .tar.gz file contains the Linux portable binaries ready to run. 
 
-$ tar -xzvf xmrig-linux-x86-64-v2.5.0.tar.gz 
-  ^ extract binaries from archive
-$ cd xmrig-linux-x86-64-v2.5.0
-$ vim config.json 
-  ^ edit the configuration file with algorithm, pool URL, wallet address, etc.
-$ xmrig.sh --config config.json
+$ tar -xzvf xmrig-linux-x86-64-v2.5.0.tar.gz \
+  ^ extract binaries from archive \
+$ cd xmrig-linux-x86-64-v2.5.0 \
+$ vim config.json \
+  ^ edit the configuration file with algorithm, pool URL, wallet address, etc. \
+$ xmrig.sh --config config.json 
 
 ### Support us
 

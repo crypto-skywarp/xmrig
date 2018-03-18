@@ -3,7 +3,7 @@
 The repository contains the Linux portable binaries for xmrig.\
 Tested on Fedora 25/27, Ubuntu 16.04.4 LTS.
 
-### Typical usage
+### How to
 
 The .tar.gz file contains the Linux portable binaries ready to run. 
 

@@ -7,9 +7,9 @@ Tested on Fedora 25/27, Ubuntu 16.04.4 LTS.
 
 The .tar.gz file contains the Linux portable binaries ready to run. 
 
-$ tar -xzvf xmrig-linux-x86-64-v2.5.0.tar.gz \
+$ tar -xzvf xmrig-linux-x86-64-vx.x.x.tar.gz \
   ^ extract binaries from archive \
-$ cd xmrig-linux-x86-64-v2.5.0 \
+$ cd xmrig-linux-x86-64-vx.x.x \
 $ vim config.json \
   ^ edit the configuration file with algorithm, pool URL, wallet address, etc. \
 $ xmrig.sh --config config.json 

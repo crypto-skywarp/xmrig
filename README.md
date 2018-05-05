@@ -12,7 +12,7 @@ $ tar -xzvf xmrig-linux-x86-64-vx.x.x.tar.gz \
 $ cd xmrig-linux-x86-64-vx.x.x \
 $ vim config.json \
   ^ edit the configuration file with algorithm, pool URL, wallet address, etc. \
-$ xmrig.sh --config config.json 
+$ ./xmrig.sh --config config.json 
 
 ### Support us
 
